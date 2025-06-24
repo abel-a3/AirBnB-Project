@@ -16,6 +16,10 @@ The main objectives of this project are to:
 ## 📁 Files
 
 - `AirBnB Project.twb` – Main Tableau workbook containing the dashboard(s) and visualizations.
+-  [AirBnB - calendar.xlsx](https://github.com/user-attachments/files/20874164/AirBnB.-.calendar.xlsx)
+-  [AirBnB - reviews.xlsx](https://github.com/user-attachments/files/20874167/AirBnB.-.reviews.xlsx)
+-  [AirBnB - listings.xlsx](https://github.com/user-attachments/files/20874169/AirBnB.-.listings.xlsx)
+
 
 ## 🗂️ Data Sources
 
